@@ -1,0 +1,11 @@
+# ninja log v6
+4	661	7420583965105328	CMakeFiles/smaller_than_me.dir/main.cpp.obj	7a52101b295a0f23
+663	797	7420583971691346	smaller_than_me.exe	9ca17bb367eedf42
+6	656	7420585553905340	CMakeFiles/smaller_than_me.dir/main.cpp.obj	7a52101b295a0f23
+657	793	7420585560415395	smaller_than_me.exe	9ca17bb367eedf42
+12	664	7420586243129845	CMakeFiles/smaller_than_me.dir/main.cpp.obj	7a52101b295a0f23
+665	801	7420586249659777	smaller_than_me.exe	9ca17bb367eedf42
+12	666	7420586534784906	CMakeFiles/smaller_than_me.dir/main.cpp.obj	7a52101b295a0f23
+666	801	7420586541323172	smaller_than_me.exe	9ca17bb367eedf42
+12	667	7420587980215592	CMakeFiles/smaller_than_me.dir/main.cpp.obj	7a52101b295a0f23
+671	807	7420587986796041	smaller_than_me.exe	9ca17bb367eedf42
