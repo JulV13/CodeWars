@@ -1,0 +1,3 @@
+C:/Users/JulV/CLionProjects/CodeWarsProjects/CodeWars/MultiplicationTable/cmake-build-debug/CMakeFiles/MultiplicationTable.dir
+C:/Users/JulV/CLionProjects/CodeWarsProjects/CodeWars/MultiplicationTable/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/JulV/CLionProjects/CodeWarsProjects/CodeWars/MultiplicationTable/cmake-build-debug/CMakeFiles/rebuild_cache.dir
