@@ -1,0 +1,3 @@
+C:/Users/JulV/CLionProjects/CodeWarsProjects/CodeWars/RomanNumeralsEncoder/cmake-build-debug/CMakeFiles/RomanNumeralsEncoder.dir
+C:/Users/JulV/CLionProjects/CodeWarsProjects/CodeWars/RomanNumeralsEncoder/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/JulV/CLionProjects/CodeWarsProjects/CodeWars/RomanNumeralsEncoder/cmake-build-debug/CMakeFiles/rebuild_cache.dir
